@@ -12,12 +12,8 @@ In this project, _Python_ is used to explore data related to bike share systems 
 
 ## **Credits:**
 * Richard Kalehoff (Udacity mentor)
-    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
-    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
 
 * Juno Lee (Udacity Mentor)
-    - [https://github.com/junolee](https://github.com/junolee)
-    - [https://www.linkedin.com/in/junoleelj](https://www.linkedin.com/in/junoleelj)
 
 * The data for all 3 cities that is used in this project can be accessed through the link mentioned below :
     - [City Data](https://drive.google.com/file/d/1km4EggJaSvHos_7KKFuHoJxbh-StyM4G/view?usp=sharing)
